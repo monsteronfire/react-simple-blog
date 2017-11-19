@@ -1,0 +1,8 @@
+{
+  "name": "diy-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/monsteronfire/react-simple-blog.git",
+  "author": "Shaii Ong <monsteronfire@gmail.com>",
+  "license": "MIT"
+}
